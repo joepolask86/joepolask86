@@ -3,7 +3,7 @@
 🚀 Web Developer • SEO Specialist • Founder of CODELABGH
 🌍 Accra, Ghana
 
-I build **fast, scalable, and SEO-optimized web designs for local business and enterprices, web applications** that help businesses generate leads and grow online. My work combines **software development, automation, and search engine optimization** to create systems that deliver measurable results.
+I build **fast, scalable, and SEO-optimized website designs for local business and large corperates, web applications** that help businesses generate leads and grow online. My work combines **software development, automation, and search engine optimization** to create systems that deliver measurable results.
 
 I also develop **internal tools for SEO analysis, niche research, and marketing automation**.
 
@@ -26,6 +26,7 @@ I also develop **internal tools for SEO analysis, niche research, and marketing 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
@@ -39,6 +40,10 @@ I also develop **internal tools for SEO analysis, niche research, and marketing 
 
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Supabase](https://skillicons.dev/icons?i=supabase)
+
+**Additional Database**
+
+* Neon (Serverless Postgres)
 
 ### Infrastructure
 
