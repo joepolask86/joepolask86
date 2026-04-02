@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joseph Twumasi
 
-🚀 Web Developer • SEO Specialist • Founder of CODELABGH
+🚀 Web Developer • Local SEO • Founder of CODELABGH
 🌍 Accra, Ghana
 
 I build **fast, scalable, and SEO-optimized website designs for local business and large corperates, web applications** that help businesses generate leads and grow online. My work combines **software development, automation, and search engine optimization** to create systems that deliver measurable results.
